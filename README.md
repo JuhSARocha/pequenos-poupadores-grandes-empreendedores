@@ -20,7 +20,7 @@ Utilizei o Chapgt e o GAMMA, para criação de conteúdo e imagens.
 
 
 ## 🚀 Resultados
- E como resultado, 
+ E como resultado, segue o link para o projeto finalizado no GAMMA.
  
 [Pequenos-Poupadores-Grandes-Empreendedores (1).pdf](https://github.com/user-attachments/files/18468910/Pequenos-Poupadores-Grandes-Empreendedores.1.pdf)
 
