@@ -2,7 +2,7 @@
 
 ## 📒 Descrição e Justificativa
 Projeto criado para o "Desafio CAIXA - Criando Impacto Social com IA" do Bootcamp Microsoft Copilot da Dio. 
-- O projeto é trata-se de um curso de Educação Financeira e Empreendedorismo voltado para crianças.
+- O projeto trata-se de um curso de Educação Financeira e Empreendedorismo voltado para crianças.
 - Foco: alunos da 4ª série de escolas municipais do interior do Maranhão.
 - Motivação: Como Maranhense que atualmente mora em Santa Catarina, eu escolhi o interior do Maranhão como "piloto" do projeto, pois conhecendo as realidades do Brasil, sei da maior carência naquela região, em especial na educação infantil.
 
